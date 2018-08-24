@@ -1,0 +1,6 @@
+{
+    // PEP 8 line-length guides & word wrapping
+    "rulers": [72, 79],
+    "word_wrap": true,
+    "wrap_width": 80
+}
